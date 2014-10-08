@@ -1,0 +1,7 @@
+*.o
+*.cmd
+*.ko
+Module.symvers
+modules.order
+rt5592sta.mod.c
+rt5592sta.mod
